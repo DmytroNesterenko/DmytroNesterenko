@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+git commit -m "QMMB-44 <message>"
 <!--
 **DmytroNesterenko/DmytroNesterenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
